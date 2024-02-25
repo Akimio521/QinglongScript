@@ -1,0 +1,13 @@
+189Cloud:
+  enable: False                 # 是否开启天翼云盘签到
+  Account_List:
+    - username: 136xxxxx        # 天翼云的账户（手机或邮箱）
+      password: xxxxxxxx        # 天翼云的密码
+    - username: 137xxxxx        
+      password: yyyyyyyy        
+
+Alidrive:
+  enable: True                  # 是否开启阿里云盘签到
+  refreshToken_List:
+    - xxxxxxxxxxxxxxxxxx        # 阿里云refreshToken
+    - yyyyyyyyyyyyyyyyyy
